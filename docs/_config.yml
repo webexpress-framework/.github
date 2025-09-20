@@ -1,0 +1,21 @@
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+
+plugins:
+  - jekyll-include-cache
+
+title: WebExpress-Framework
+description: Lightweight, modular web server
+url: "https://webexpress-framework.github.io"
+baseurl: ""
+
+minimal_mistakes_skin: "dark" # options: "default", "air", "neon", etc.
+
+author:
+  name: "Rene Schwarzer"
+  email: "kleenestar.project@gmail.com"
+
+# Optional: enable sidebar navigation via collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
