@@ -5,7 +5,7 @@ plugins:
 
 title: WebExpress-Framework
 description: Lightweight, modular web server
-url: "https://webexpress-framework.github.io"
+url: "https://webexpress-framework.github.io/.github/"
 baseurl: ""
 
 minimal_mistakes_skin: "dark" # options: "default", "air", "neon", etc.
