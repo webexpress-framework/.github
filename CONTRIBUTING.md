@@ -21,7 +21,7 @@ project, you agree to abide by its terms.
 
 - **Bugfixes:** If you fix a bug, make sure your code includes a test case that verifies the fix.
 - **Features:** If you add a new feature, please include documentation and relevant tests.
-- **Codestyle:** Follow the coding style used in the project. We use [style guide/tool] to enforce consistent coding standards.
+- **Codestyle:** Follow the coding style used in the project. We use [Microsoft .NET C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) to enforce consistent coding standards.
 - **Tests:** Ensure that all existing tests pass and add new tests for your changes if applicable.
 - **Documentation:** Update the documentation (README, tutorials, etc.) as needed with your changes.
 

@@ -16,7 +16,7 @@ This is a private, non-commercial initiative operated by an individual contribut
 
 ## Contact
 
-Email: kleenestar.project@gmail.com
+Email: webexpress-framework@outlook.com
 GitHub: https://github.com/kleene-star
 
 ## Responsible for content according to § 55 para. 2 RStV (German Interstate Broadcasting Treaty)

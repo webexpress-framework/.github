@@ -12,7 +12,7 @@ Due to its nature as a framework, **WebExpress** neither collects nor stores any
 However, when interacting with the **WebExpress-Framework** GitHub organization, certain data, such as your GitHub username, contributions, and activity logs, may be processed and stored by GitHub Inc.. No additional personal data is collected beyond what GitHub provides as part of its platform usage. For details, refer to [GitHub's Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 Responsible Entity: Rene Schwarzer 
-Email: kleenestar.project@gmail.com
+Email: webexpress-framework@outlook.com
 
 ## What data is processed?
 - GitHub metadata (username, contributions, activity logs)

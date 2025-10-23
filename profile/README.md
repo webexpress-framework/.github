@@ -63,7 +63,7 @@ If you build, design, write, test, or simply want to learn - there's a place for
 
 **WebExpress-Framework** is a **private**, **non-commercial** project.
 
-- Contact: [kleenestar.project@gmail.com](mailto:kleenestar.project@gmail.com)
+- Contact: [kleenestar.project@gmail.com](mailto:webexpress-framework@outlook.com)
 - Legal pages: [Legal Notice](../docs/legal-notice.md) & [Privacy Policy](../docs/privacy-policy.md)
 
 ---
